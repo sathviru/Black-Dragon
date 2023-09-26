@@ -14,15 +14,15 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['94701416588'] //ur owner number
-global.ownername = "Sathviru Official" //ur owner name
+global.owner = ['94721489840'] //ur owner number
+global.ownername = "Sathviru " //ur owner name
 global.ytname = "YT" //ur yt chanel name
-global.socialm = "GitHub: Sathviru" //ur github or insta name
+global.socialm = "Instergram: Sathviru_Rupasinghe" //ur github or insta name
 global.location = "Sri Lanka, Colombo, Kiribathgoda" //ur location
 
 //bot bomdy 
-global.ownernomer = "94701416588" //ur number
-global.premium = ['94701416588'] //ur premium number
+global.ownernomer = "94721489840" //ur number
+global.premium = ['94721489840'] //ur premium number
 global.botname = 'BLACK DRAGON' //ur bot name
 global.linkz = "https://chat.whatsapp.com" //your theme url which will be displayed on whatsapp
 global.websitex = "https://www.helacloud.ga" //ur website to be displayed
@@ -30,7 +30,7 @@ global.botscript = 'https://github.com/Sathviru/Black-Dragon' //script link
 global.themeemoji = "❤️" //ur theme emoji
 global.packname = "Sticker By Black Dragon" //ur sticker watermark packname
 global.author = "Sathviru Official" //ur sticker watermark author
-global.wm = "𝗕𝗟𝗔𝗖𝗞 𝗗𝗥𝗔𝗚𝗢𝗡 𝗜𝗡𝗖" //ur watermark
+global.wm = "𝗕𝗟𝗔𝗖𝗞 𝗗𝗥𝗔𝗚𝗢𝗡 " //ur watermark
 
 // Other
 global.sessionName = 'session'
